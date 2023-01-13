@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Abenry Advocates</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="homenote">Abenry Advocates</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="welcome_name">Abenry Advocates</string>
+
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_home">Home</string>
+    <string name="title_about">About Us</string>
+    <string name="title_practice">Our Practice</string>
+    <string name="title_news">News</string>
+    <string name="title_news_imp">News &amp; Insights</string>
+    <string name="title_news_inside">in details</string>
+    <string name="title_contact">Contact Us</string>
+    <string name="title_contact_menu">Contacts</string>
+    <string name="title_setting">Settings</string>
+    <string name="cont_email">info@abenry.co.tz</string>
+    <string name="cont_call">+255 2129461/ 2129462</string>
+    <string name="cont_location">Dar es Salaam-Tanzania</string>
+    <string name="vission">Our Vision</string>
+    <string name="vission_1">Our Vision is to be the leading law firm in Tanzania. The Firm regards efficiency, responsiveness and a commercial approach to problem solving as vital to the provision of legal advice to its sophisticated client base.<br /> We aim to achieve our vision by having a specialist focus and ability to deliver timely and efficient legal services</string>
+    <string name="mission">Our Mission</string>
+    <string name="mission_1">Our mission is to provide high quality, result oriented legal services based on integrity, highest standards of professionalism and respect to individuals and businesses.</string>
+    <string name="firm_overview">Firm Overview</string>
+    <string name="firm_overview_1">Abenry Advocates legal partnership started in year 2006 as Abenry &amp; Company Advocates.<br /><br />Abenry Advocates comprises of 6 partners and 7 associates. The background experience of its members allows Abenry Advocates to offer the best legal services in the country in all aspects of the law. Abenry Advocates operates in Mainland Tanzania as well as Zanzibar.<br /><br />Our team of lawyers has over the years been involved in a number of prominent transactions including real estate transactions, intellectual property matters, capital market transactions, public private partnership projects, privatization projects, corporate restructuring and general advisory work. The members of Abenry Advocates have the requisite competency, knowledge, ability, and skill in handling all legal matters.</string>
+    <string name="honours">Honors &amp; Awards</string>
+    <string name="chamber4">Chambers Global 2014</string>
+    <string name="chamber5">Market commentators report positively on this firm’s practice and the experience that the partners bring to their mandates.<br />Transactional, banking and projects matters are all handled, and the team draws particular praise for its expertise in IP.<br />Lucy Henry Sondo is recognised as a lawyer with “plenty of hands-on experience,” and is frequently engaged on matters such as project financing and PPP.<br />IP specialist Pauline Hilda Kasonda is an active figure for patent and trade mark work in Tanzania</string>
+    <string name="chamber">Chambers Global 2013</string>
+    <string name="chamber_1">Abenry “has since been establishing a firm foothold in the market, with a workload that includes banking and project finance matters.<br />The group is also noted for its strong intellectual property practice”. Lucy Henry Sondo ” is a corporate lawyer rated for her regulatory experience as well as her expertise in banking matters”. <br />Pauline Hilda Kasonda “has an excellent reputation for her IP skills, and is singled out as being ” very good in patents.”</string>
+    <string name="service_one">Corporate</string>
+    <string name="service_two">Litigation</string>
+    <string name="service_three">Intellectual property</string>
+    <string name="get_connected">Do you need a quick assistance?</string>
+    <string name="tap_connected">Tap to connect with us</string>
+    <string name="category">Category</string>
+    <string name="sample_title">IR Global member for Energy Law</string>
+    <string name="sample_news">In September 2018, the highly anticipated Public Private Partnership (the PPP Amendment Act), No.9 of 2018 was gazetted. In this article, we set out some of the key amendments that have been made that will encourage investors to propose PPP projects in Tanzania.The Public Private Partnership Act No. 19 of 2010 is the principal act made for the purpose of providing for institutional framework for the implementation of the Public Private Partnership agreements between public and private sector entities. The Act outlines the rules and procedures of the procurement process and development of Public and Private sector partnerships.Out of the many amendments that the Public Private Partnership Act, Cap. 19, 2010 has undergone over the years, the most recent is the anticipated Public Private Partnership Amendment Act No. 9 of 2018. This amendment has brought about changes to the other previous amendments of 2013 and 2014, of which these had introduced changes to the main Act, 2010.The two amendments before the 2018 amendment had incorporated changes on the Principal Act No. 19 of 2010 which included the following:</string>
+    <string name="serve">Good morning.</string>
+    <string name="goodafternoon">Good afternoon.</string>
+    <string name="goodevening">Good evening.</string>
+    <string name="goodnight">Good night.</string>
+    <string name="how">How do you rate this news/insight?</string>
+    <string name="hintrate">Write you are comment here</string>
+    <string name="star1">Unfriendly</string>
+    <string name="star2">Satisfactory</string>
+    <string name="star3">Good</string>
+    <string name="star4">Better</string>
+    <string name="star5">Best</string>
+    <string name="serve_1">We are pleased to serve you today</string>
+    <string name="corporate_content">The firm plays an active role in the development of law in the energy sector through its role in providing advice to major corporate clients involved in the oil and gas industry.<br />The firm has widely-regarded expertise in Tanzania hydrocarbon law, allowing us to offer clients all the legal and fiscal assistance necessary in Tanzania.</string>
+    <string name="ip_content">Abenry provides comprehensive legal assistance in all areas of Intellectual Property, including patents, trademarks, copyrights, plant variety protection and unfair competition, domain names, due diligence, intellectual property licensing, and all related litigation in Tanzania, Zanzibar and other countries throughout Africa.</string>
+    <string name="lg_content">Abenry represent clients in commercial and civil litigation and arbitration on various commercial disputes such as loan defaults, land disputes, labour related disputes.<br />We represent clients in lower division courts and higher courts and the court of appeal. We represent clients in lower division courts and higher courts and the court of appeal.</string>
+    <string-array name="practices">
+        <item>Corporate</item>
+        <item>Intellectual property</item>
+        <item>Litigation</item>
+    </string-array>
+
+</resources>
+
